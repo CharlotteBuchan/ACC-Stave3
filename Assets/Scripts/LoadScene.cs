@@ -24,5 +24,9 @@ namespace Unity.LEGO.UI
                 LoadScene();
             }
         }
+        public void Quit()
+        {
+            Application.Quit();
+        }
     }
 }
