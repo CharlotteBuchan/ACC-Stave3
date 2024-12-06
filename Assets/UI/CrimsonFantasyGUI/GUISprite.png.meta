@@ -126,13 +126,13 @@ TextureImporter:
       name: GUISprite_0
       rect:
         serializedVersion: 2
-        x: 183
-        y: 55
-        width: 66
-        height: 66
+        x: 182
+        y: 54
+        width: 68
+        height: 68
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 9, y: 9, z: 9, w: 9}
+      border: {x: 10, y: 10, z: 10, w: 10}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -194,7 +194,7 @@ TextureImporter:
         width: 72
         height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -215,7 +215,7 @@ TextureImporter:
         width: 78
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -236,7 +236,7 @@ TextureImporter:
         width: 78
         height: 10
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
